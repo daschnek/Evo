@@ -1,0 +1,1 @@
+_evomenu2 = createDialog "HQMenu";

@@ -1,0 +1,30 @@
+author = "daschnek & Fury145";
+
+onLoadMission = "Quietly GBU the Enemy"
+
+respawn = 3;
+
+respawnDelay = 5;
+
+wreckLimit = 1;
+
+wreckManagerMode = 1;
+
+corpseLimit = 10;
+
+corpseRemovalMinTime = 10;
+
+corpseRemovalMaxTime = 15;
+
+#include "supportmenu.hpp"
+#include "HQMenu.hpp"
+
+class Params {
+
+	class MissionTime {
+	title = "Time of Day:";
+    values[] = {5,14,19,23};
+    texts[] = {"Dawn","Afternoon","Almost Night","Night Mission"};
+    default = 14;
+    };
+}

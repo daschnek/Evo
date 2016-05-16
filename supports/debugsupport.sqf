@@ -1,0 +1,1 @@
+onMapSingleClick "'Bo_GBU12_LGB' createVehicle _pos;";

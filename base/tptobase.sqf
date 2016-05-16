@@ -1,0 +1,1 @@
+_move = player setPos (getMarkerPos "respawn_west");

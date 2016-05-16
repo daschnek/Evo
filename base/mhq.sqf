@@ -1,0 +1,1 @@
+_mhqfnc = player setPos (position hq1);
